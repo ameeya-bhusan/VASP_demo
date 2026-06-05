@@ -97,12 +97,12 @@ Direct <br>
 ### KPOINTS
 
 - **Description**: Specifies the k-point sampling of the Brillouin zone.
-- **Example**:
-Automatic mesh
-0
-Monkhorst-Pack
-4 4 4
-0 0 0
+- **Example**: <br>
+Automatic mesh <br>
+0 <br>
+Monkhorst-Pack <br>
+4 4 4 <br>
+0 0 0 <br>
 
 
 ---
