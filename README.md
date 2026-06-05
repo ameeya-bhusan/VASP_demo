@@ -68,17 +68,17 @@ VASP requires several key input files:
 
 - **Description**: Specifies the positions of atoms in the simulation cell.
 - **Format**: Cartesian or direct coordinates.
-- **Example**:
+- **Example**: <br>
 Si <br>
 5.431 <br>
 0.0 0.5 0.5 <br>
 0.5 0.0 0.5 <br>
 0.5 0.5 0.0 <br>
 Si <br>
-2
-Direct
-0.0 0.0 0.0
-0.25 0.25 0.25
+2 <br>
+Direct <br>
+0.0 0.0 0.0 <br>
+0.25 0.25 0.25 <br>
 
 ### POTCAR
 
